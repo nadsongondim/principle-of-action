@@ -1,0 +1,27 @@
+# Scientific core — used in practically every chapter of Volume 4
+numpy>=1.26
+scipy>=1.12
+matplotlib>=3.8
+pandas>=2.2
+
+# Model fitting, statistics and ML
+scikit-learn>=1.4
+statsmodels>=0.14
+
+# ODEs/PDEs and optimization (Ch. 2, 4, 5, 7, 10–16)
+sympy>=1.12
+
+# Medical imaging (Ch. 17 — bioimaging)
+pydicom>=2.4
+scikit-image>=0.22
+Pillow>=10.0
+
+# Interoperability — REST/FHIR calls (Ch. 20)
+requests>=2.31
+
+# Notebooks (optional — Appendix D)
+jupyter>=1.0
+ipykernel>=6.29
+
+# Reproducibility
+pyyaml>=6.0

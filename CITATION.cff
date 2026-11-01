@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "The Principle of Action — Executable Code of Volume 4 (Unified Computational Modeling)"
+message: "If this code is useful to your work, please cite the complete series."
+type: software
+abstract: >-
+  Executable Python code accompanying the English edition of Volume 4,
+  "Unified Computational Modeling — Simulations in Physics, Biochemistry and
+  Medicine", of the four-volume series "The Principle of Action". It contains
+  every code example, the answer keys to the challenge exercises and the
+  scripts that reproduce all 22 technical figures of the book. Educational
+  material only; not a medical device.
+authors:
+  - family-names: "Gondim"
+    given-names: "Nadson Brito"
+    affiliation: "Universidade Federal do Maranhão (UFMA)"
+repository-code: "https://github.com/nadsongondim/principle-of-action"
+license: MIT
+keywords:
+  - principle of action
+  - Lagrangian
+  - Hamiltonian
+  - computational mechanics
+  - unified physics
+  - modeling in medicine
+  - reproducibility
+preferred-citation:
+  type: book
+  title: "The Principle of Action — A Four-Volume Series"
+  authors:
+    - family-names: "Gondim"
+      given-names: "Nadson Brito"
+  year: 2026
+  publisher:
+    name: "Author's edition"
